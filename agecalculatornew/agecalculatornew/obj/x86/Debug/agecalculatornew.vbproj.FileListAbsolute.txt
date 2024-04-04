@@ -1,0 +1,11 @@
+E:\Projects\agecalculatornew\agecalculatornew\obj\x86\Debug\agecalculatornew.Resources.resources
+E:\Projects\agecalculatornew\agecalculatornew\obj\x86\Debug\agecalculatornew.vbproj.GenerateResource.Cache
+E:\Projects\agecalculatornew\agecalculatornew\bin\Debug\agecalculatornew.exe
+E:\Projects\agecalculatornew\agecalculatornew\bin\Debug\agecalculatornew.pdb
+E:\Projects\agecalculatornew\agecalculatornew\bin\Debug\agecalculatornew.xml
+E:\Projects\agecalculatornew\agecalculatornew\obj\x86\Debug\agecalculatornew.exe
+E:\Projects\agecalculatornew\agecalculatornew\obj\x86\Debug\agecalculatornew.xml
+E:\Projects\agecalculatornew\agecalculatornew\obj\x86\Debug\agecalculatornew.pdb
+E:\Projects\CONSOLE\agecalculatornew\agecalculatornew\obj\x86\Debug\agecalculatornew.exe
+E:\Projects\CONSOLE\agecalculatornew\agecalculatornew\obj\x86\Debug\agecalculatornew.xml
+E:\Projects\CONSOLE\agecalculatornew\agecalculatornew\obj\x86\Debug\agecalculatornew.pdb

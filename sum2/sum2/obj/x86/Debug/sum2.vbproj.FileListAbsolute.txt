@@ -1,0 +1,11 @@
+c:\users\barry\documents\visual studio 2010\Projects\sum2\sum2\bin\Debug\sum2.exe
+c:\users\barry\documents\visual studio 2010\Projects\sum2\sum2\bin\Debug\sum2.pdb
+c:\users\barry\documents\visual studio 2010\Projects\sum2\sum2\bin\Debug\sum2.xml
+c:\users\barry\documents\visual studio 2010\Projects\sum2\sum2\obj\x86\Debug\sum2.Resources.resources
+c:\users\barry\documents\visual studio 2010\Projects\sum2\sum2\obj\x86\Debug\sum2.vbproj.GenerateResource.Cache
+c:\users\barry\documents\visual studio 2010\Projects\sum2\sum2\obj\x86\Debug\sum2.exe
+c:\users\barry\documents\visual studio 2010\Projects\sum2\sum2\obj\x86\Debug\sum2.xml
+c:\users\barry\documents\visual studio 2010\Projects\sum2\sum2\obj\x86\Debug\sum2.pdb
+E:\Projects\sum2\sum2\obj\x86\Debug\sum2.exe
+E:\Projects\sum2\sum2\obj\x86\Debug\sum2.xml
+E:\Projects\sum2\sum2\obj\x86\Debug\sum2.pdb

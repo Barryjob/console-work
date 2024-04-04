@@ -1,0 +1,8 @@
+E:\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\boyleslaw.exe
+E:\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\boyleslaw.pdb
+E:\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\boyleslaw.xml
+E:\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\boyleslaw.Resources.resources
+E:\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\boyleslaw.vbproj.GenerateResource.Cache
+E:\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\boyleslaw.exe
+E:\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\boyleslaw.xml
+E:\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\boyleslaw.pdb

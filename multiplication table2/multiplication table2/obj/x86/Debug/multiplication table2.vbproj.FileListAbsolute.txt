@@ -1,0 +1,8 @@
+E:\Projects\multiplication table2\multiplication table2\bin\Debug\multiplication table2.exe
+E:\Projects\multiplication table2\multiplication table2\bin\Debug\multiplication table2.pdb
+E:\Projects\multiplication table2\multiplication table2\bin\Debug\multiplication table2.xml
+E:\Projects\multiplication table2\multiplication table2\obj\x86\Debug\multiplication_table2.Resources.resources
+E:\Projects\multiplication table2\multiplication table2\obj\x86\Debug\multiplication table2.vbproj.GenerateResource.Cache
+E:\Projects\multiplication table2\multiplication table2\obj\x86\Debug\multiplication table2.exe
+E:\Projects\multiplication table2\multiplication table2\obj\x86\Debug\multiplication table2.xml
+E:\Projects\multiplication table2\multiplication table2\obj\x86\Debug\multiplication table2.pdb

@@ -1,0 +1,19 @@
+c:\users\barry\documents\visual studio 2010\Projects\VELOCITY\VELOCITY\bin\Debug\VELOCITY.exe
+c:\users\barry\documents\visual studio 2010\Projects\VELOCITY\VELOCITY\bin\Debug\VELOCITY.pdb
+c:\users\barry\documents\visual studio 2010\Projects\VELOCITY\VELOCITY\bin\Debug\VELOCITY.xml
+c:\users\barry\documents\visual studio 2010\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.Resources.resources
+c:\users\barry\documents\visual studio 2010\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.vbproj.GenerateResource.Cache
+c:\users\barry\documents\visual studio 2010\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.exe
+c:\users\barry\documents\visual studio 2010\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.xml
+c:\users\barry\documents\visual studio 2010\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.pdb
+E:\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.exe
+E:\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.xml
+E:\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.pdb
+E:\Projects\VELOCITY\VELOCITY\bin\Debug\VELOCITY.exe
+E:\Projects\VELOCITY\VELOCITY\bin\Debug\VELOCITY.pdb
+E:\Projects\VELOCITY\VELOCITY\bin\Debug\VELOCITY.xml
+E:\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.Resources.resources
+E:\Projects\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.vbproj.GenerateResource.Cache
+E:\Projects\CONSOLE\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.exe
+E:\Projects\CONSOLE\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.xml
+E:\Projects\CONSOLE\VELOCITY\VELOCITY\obj\x86\Debug\VELOCITY.pdb

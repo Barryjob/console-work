@@ -1,0 +1,16 @@
+c:\users\barry\documents\visual studio 2010\Projects\AREA OF CIRCLE\AREA OF CIRCLE\bin\Debug\AREA OF CIRCLE.exe
+c:\users\barry\documents\visual studio 2010\Projects\AREA OF CIRCLE\AREA OF CIRCLE\bin\Debug\AREA OF CIRCLE.pdb
+c:\users\barry\documents\visual studio 2010\Projects\AREA OF CIRCLE\AREA OF CIRCLE\bin\Debug\AREA OF CIRCLE.xml
+c:\users\barry\documents\visual studio 2010\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA_OF_CIRCLE.Resources.resources
+c:\users\barry\documents\visual studio 2010\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA OF CIRCLE.vbproj.GenerateResource.Cache
+c:\users\barry\documents\visual studio 2010\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA OF CIRCLE.exe
+c:\users\barry\documents\visual studio 2010\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA OF CIRCLE.xml
+c:\users\barry\documents\visual studio 2010\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA OF CIRCLE.pdb
+E:\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA OF CIRCLE.exe
+E:\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA OF CIRCLE.xml
+E:\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA OF CIRCLE.pdb
+E:\Projects\AREA OF CIRCLE\AREA OF CIRCLE\bin\Debug\AREA OF CIRCLE.exe
+E:\Projects\AREA OF CIRCLE\AREA OF CIRCLE\bin\Debug\AREA OF CIRCLE.pdb
+E:\Projects\AREA OF CIRCLE\AREA OF CIRCLE\bin\Debug\AREA OF CIRCLE.xml
+E:\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA_OF_CIRCLE.Resources.resources
+E:\Projects\AREA OF CIRCLE\AREA OF CIRCLE\obj\x86\Debug\AREA OF CIRCLE.vbproj.GenerateResource.Cache

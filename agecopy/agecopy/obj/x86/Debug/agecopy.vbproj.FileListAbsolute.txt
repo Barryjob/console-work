@@ -1,0 +1,2 @@
+E:\Projects\agecopy\agecopy\obj\x86\Debug\agecopy.Resources.resources
+E:\Projects\agecopy\agecopy\obj\x86\Debug\agecopy.vbproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+E:\Projects\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.Resources.resources
+E:\Projects\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.vbproj.GenerateResource.Cache
+E:\Projects\loancalculator2\loancalculator2\bin\Debug\loancalculator2.exe
+E:\Projects\loancalculator2\loancalculator2\bin\Debug\loancalculator2.pdb
+E:\Projects\loancalculator2\loancalculator2\bin\Debug\loancalculator2.xml
+E:\Projects\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.exe
+E:\Projects\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.xml
+E:\Projects\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.pdb
+E:\Projects\CONSOLE\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.exe
+E:\Projects\CONSOLE\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.xml
+E:\Projects\CONSOLE\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.pdb
+E:\Projects\CONSOLE\loancalculator2\loancalculator2\bin\Debug\loancalculator2.exe
+E:\Projects\CONSOLE\loancalculator2\loancalculator2\bin\Debug\loancalculator2.pdb
+E:\Projects\CONSOLE\loancalculator2\loancalculator2\bin\Debug\loancalculator2.xml
+E:\Projects\CONSOLE\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.Resources.resources
+E:\Projects\CONSOLE\loancalculator2\loancalculator2\obj\x86\Debug\loancalculator2.vbproj.GenerateResource.Cache

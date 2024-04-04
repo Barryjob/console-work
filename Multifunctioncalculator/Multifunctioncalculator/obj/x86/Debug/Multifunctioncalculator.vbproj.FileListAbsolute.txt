@@ -1,0 +1,16 @@
+E:\Projects\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.Resources.resources
+E:\Projects\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.vbproj.GenerateResource.Cache
+E:\Projects\Multifunctioncalculator\Multifunctioncalculator\bin\Debug\Multifunctioncalculator.exe
+E:\Projects\Multifunctioncalculator\Multifunctioncalculator\bin\Debug\Multifunctioncalculator.pdb
+E:\Projects\Multifunctioncalculator\Multifunctioncalculator\bin\Debug\Multifunctioncalculator.xml
+E:\Projects\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.exe
+E:\Projects\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.xml
+E:\Projects\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.pdb
+E:\Projects\CONSOLE\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.exe
+E:\Projects\CONSOLE\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.xml
+E:\Projects\CONSOLE\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.pdb
+E:\Projects\CONSOLE\Multifunctioncalculator\Multifunctioncalculator\bin\Debug\Multifunctioncalculator.exe
+E:\Projects\CONSOLE\Multifunctioncalculator\Multifunctioncalculator\bin\Debug\Multifunctioncalculator.pdb
+E:\Projects\CONSOLE\Multifunctioncalculator\Multifunctioncalculator\bin\Debug\Multifunctioncalculator.xml
+E:\Projects\CONSOLE\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.Resources.resources
+E:\Projects\CONSOLE\Multifunctioncalculator\Multifunctioncalculator\obj\x86\Debug\Multifunctioncalculator.vbproj.GenerateResource.Cache

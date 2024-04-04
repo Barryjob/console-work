@@ -1,0 +1,24 @@
+c:\users\barry\documents\visual studio 2010\Projects\TAX DEDUCTION\TAX DEDUCTION\bin\Debug\TAX DEDUCTION.exe
+c:\users\barry\documents\visual studio 2010\Projects\TAX DEDUCTION\TAX DEDUCTION\bin\Debug\TAX DEDUCTION.pdb
+c:\users\barry\documents\visual studio 2010\Projects\TAX DEDUCTION\TAX DEDUCTION\bin\Debug\TAX DEDUCTION.xml
+c:\users\barry\documents\visual studio 2010\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX_DEDUCTION.Resources.resources
+c:\users\barry\documents\visual studio 2010\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.vbproj.GenerateResource.Cache
+c:\users\barry\documents\visual studio 2010\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.exe
+c:\users\barry\documents\visual studio 2010\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.xml
+c:\users\barry\documents\visual studio 2010\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.pdb
+E:\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.exe
+E:\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.xml
+E:\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.pdb
+E:\Projects\TAX DEDUCTION\TAX DEDUCTION\bin\Debug\TAX DEDUCTION.exe
+E:\Projects\TAX DEDUCTION\TAX DEDUCTION\bin\Debug\TAX DEDUCTION.pdb
+E:\Projects\TAX DEDUCTION\TAX DEDUCTION\bin\Debug\TAX DEDUCTION.xml
+E:\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX_DEDUCTION.Resources.resources
+E:\Projects\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.vbproj.GenerateResource.Cache
+E:\Projects\CONSOLE\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.exe
+E:\Projects\CONSOLE\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.xml
+E:\Projects\CONSOLE\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.pdb
+E:\Projects\CONSOLE\TAX DEDUCTION\TAX DEDUCTION\bin\Debug\TAX DEDUCTION.exe
+E:\Projects\CONSOLE\TAX DEDUCTION\TAX DEDUCTION\bin\Debug\TAX DEDUCTION.pdb
+E:\Projects\CONSOLE\TAX DEDUCTION\TAX DEDUCTION\bin\Debug\TAX DEDUCTION.xml
+E:\Projects\CONSOLE\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX_DEDUCTION.Resources.resources
+E:\Projects\CONSOLE\TAX DEDUCTION\TAX DEDUCTION\obj\x86\Debug\TAX DEDUCTION.vbproj.GenerateResource.Cache

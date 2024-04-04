@@ -1,0 +1,11 @@
+c:\users\barry\documents\visual studio 2010\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\bin\Debug\ADDITION OF TWO NUMBERS.exe
+c:\users\barry\documents\visual studio 2010\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\bin\Debug\ADDITION OF TWO NUMBERS.pdb
+c:\users\barry\documents\visual studio 2010\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\bin\Debug\ADDITION OF TWO NUMBERS.xml
+c:\users\barry\documents\visual studio 2010\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\obj\x86\Debug\ADDITION_OF_TWO_NUMBERS.Resources.resources
+c:\users\barry\documents\visual studio 2010\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\obj\x86\Debug\ADDITION OF TWO NUMBERS.vbproj.GenerateResource.Cache
+c:\users\barry\documents\visual studio 2010\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\obj\x86\Debug\ADDITION OF TWO NUMBERS.exe
+c:\users\barry\documents\visual studio 2010\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\obj\x86\Debug\ADDITION OF TWO NUMBERS.xml
+c:\users\barry\documents\visual studio 2010\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\obj\x86\Debug\ADDITION OF TWO NUMBERS.pdb
+E:\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\obj\x86\Debug\ADDITION OF TWO NUMBERS.exe
+E:\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\obj\x86\Debug\ADDITION OF TWO NUMBERS.xml
+E:\Projects\ADDITION OF TWO NUMBERS\ADDITION OF TWO NUMBERS\obj\x86\Debug\ADDITION OF TWO NUMBERS.pdb

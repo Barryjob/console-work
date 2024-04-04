@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QUADRATIC EQUATION", "QUADRATIC EQUATION\QUADRATIC EQUATION.vbproj", "{3FE3FB18-9585-4D69-8D3C-977075B75FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE3FB18-9585-4D69-8D3C-977075B75FDB}.Debug|x86.ActiveCfg = Debug|x86
+		{3FE3FB18-9585-4D69-8D3C-977075B75FDB}.Debug|x86.Build.0 = Debug|x86
+		{3FE3FB18-9585-4D69-8D3C-977075B75FDB}.Release|x86.ActiveCfg = Release|x86
+		{3FE3FB18-9585-4D69-8D3C-977075B75FDB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

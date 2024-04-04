@@ -1,0 +1,16 @@
+E:\Projects\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+E:\Projects\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+E:\Projects\LoanApp\LoanApp\bin\Debug\LoanApp.xml
+E:\Projects\LoanApp\LoanApp\obj\x86\Debug\LoanApp.Resources.resources
+E:\Projects\LoanApp\LoanApp\obj\x86\Debug\LoanApp.vbproj.GenerateResource.Cache
+E:\Projects\LoanApp\LoanApp\obj\x86\Debug\LoanApp.exe
+E:\Projects\LoanApp\LoanApp\obj\x86\Debug\LoanApp.xml
+E:\Projects\LoanApp\LoanApp\obj\x86\Debug\LoanApp.pdb
+E:\Projects\CONSOLE\LoanApp\LoanApp\obj\x86\Debug\LoanApp.exe
+E:\Projects\CONSOLE\LoanApp\LoanApp\obj\x86\Debug\LoanApp.xml
+E:\Projects\CONSOLE\LoanApp\LoanApp\obj\x86\Debug\LoanApp.pdb
+E:\Projects\CONSOLE\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+E:\Projects\CONSOLE\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+E:\Projects\CONSOLE\LoanApp\LoanApp\bin\Debug\LoanApp.xml
+E:\Projects\CONSOLE\LoanApp\LoanApp\obj\x86\Debug\LoanApp.Resources.resources
+E:\Projects\CONSOLE\LoanApp\LoanApp\obj\x86\Debug\LoanApp.vbproj.GenerateResource.Cache

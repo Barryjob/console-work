@@ -1,0 +1,8 @@
+E:\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+E:\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+E:\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.xml
+E:\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.Resources.resources
+E:\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.vbproj.GenerateResource.Cache
+E:\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+E:\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.xml
+E:\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb

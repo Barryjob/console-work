@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VELOCITY", "VELOCITY\VELOCITY.vbproj", "{EF8FBC75-0E5D-4F7F-861C-7FCC2C7C7CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8FBC75-0E5D-4F7F-861C-7FCC2C7C7CFF}.Debug|x86.ActiveCfg = Debug|x86
+		{EF8FBC75-0E5D-4F7F-861C-7FCC2C7C7CFF}.Debug|x86.Build.0 = Debug|x86
+		{EF8FBC75-0E5D-4F7F-861C-7FCC2C7C7CFF}.Release|x86.ActiveCfg = Release|x86
+		{EF8FBC75-0E5D-4F7F-861C-7FCC2C7C7CFF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
